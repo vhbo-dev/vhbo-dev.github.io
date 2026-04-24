@@ -1,0 +1,17 @@
+title: Victor Hugo | vhbo-dev
+description: Blog sobre tecnologia, investigação digital e projetos criativos
+author: Victor Hugo Barbosa Oliveira
+email: seuemail@exemplo.com  # opcional
+baseurl: ""
+url: "https://vhbo-dev.github.io"
+theme: jekyll-theme-primer  # tema limpo e profissional
+markdown: kramdown
+
+# SEO básico
+twitter_username: seuuser  # opcional
+github_username: vhbo-dev
+
+# Plugins suportados pelo GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
